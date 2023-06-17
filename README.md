@@ -6,7 +6,7 @@ To do app using Node.js and express .js
 ## Screenshots
 
 <p>
-    <img src="./SCREEN.jpg" alt="Home Page" />
+    <img src="./TODO.png" alt="Home Page" />
 </p>
 
 
